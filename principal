@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<title>Página Principal</title>
+<meta charset="utf-8">
+
+<style>
+#desktop_1{
+width: 1440px;
+height: 1024px;
+background: #FFF;
+}
+
+.retangulo_cima{
+width: 1440px;
+height: 335px;
+flex-shrink: 0;
+background: #1DD41A
+}
+
+.retangulo_baixo{
+width: 1053.872px;
+height: 912.192px;
+flex-shrink: 0;
+background: #45e705;
+}
+
+.texto{
+width: 919px;
+height: 268px;
+flex-shrink: 0;
+
+color:#213ED3;
+font-family: Inter;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+.titulo{
+width: 683px;
+height: 99px;
+flex-shrink: 0;
+
+width: 683px;
+height: 99px;
+top: 96px;
+left: 191px;
+
+font-family: Jacques Francois;
+font-size: 64px;
+font-weight: 400;
+line-height: 84px;
+letter-spacing: 0em;
+text-align: left;
+
+
+color: #000;
+font-family: Jacques Francois;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+h1{
+width: 683px;
+height: 99px;
+flex-shrink: 0;
+
+color: #000;
+font-family: Jacques Francois;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+</style>
+
+</head>
+<body>#213ED3;egurança nas Escolas</h1>
+</div>
+
+<p class="texto">
+Com o crescente desafio de garantir a segurança nas escolas, a implementação de tecnologias inovadoras tornou-se essencial para proteger alunos, funcionários e demais membros da comunidade escolar.
+</p>
+<p class="texto">
+Nesse contexto, a robótica se apresenta como uma poderosa aliada para aumentar a segurança e criar um ambiente educacional mais protegido e acolhedor.
+
+Este projeto propõe a utilização de circuitos com respostas sonoras e de iluminação para aprimorar a segurança e a respostas a situações de risco na escola.
+</p>
+</div class="retangulo_baixo"></div>
+
+</div>
+</body>
+</html>
+
